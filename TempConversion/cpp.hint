@@ -1,0 +1,2 @@
+#define TEMPCONVERSION_API __declspec(dllexport)
+#define TEMPCONVERSION_API __declspec(dllimport)
